@@ -18,4 +18,4 @@ Welcome to the **Number Guessing Game** — a fun and interactive command-line g
 
 1. Run the script using Python 3:
    ```bash
-   python game.py
+   python main.py
